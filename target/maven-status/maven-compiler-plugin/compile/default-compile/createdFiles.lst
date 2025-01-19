@@ -1,0 +1,7 @@
+org\camunda\community\examples\twitter\business\TwitterService.class
+org\camunda\community\examples\twitter\business\DuplicateTweetException.class
+org\camunda\community\examples\twitter\business\TwitterServiceImpl.class
+org\camunda\community\examples\twitter\process\TwitterProcessVariables.class
+org\camunda\community\examples\twitter\TwitterExampleApplication.class
+org\camunda\community\examples\twitter\rest\ReviewTweetRestApi.class
+org\camunda\community\examples\twitter\process\TwitterWorker.class

@@ -1,0 +1,3 @@
+org\camunda\community\examples\twitter\TestEchoTestProcess.class
+org\camunda\community\examples\twitter\TestTwitterProcess.class
+org\camunda\community\examples\twitter\BPMNTest.class
